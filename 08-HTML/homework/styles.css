@@ -7,13 +7,12 @@ img {
 }
 
 #thirdDiv {
-   height: 600px;
-   width: 500px;
-   background: red; 
+   height: 500px;
+   width: 600px;
+   background-color: red; 
    padding: 50px; 
    border-width: 2px;
-   border-color: black;
-   border-style: dotted;   
+   border: 10px solid blue;
 }
 #spanId{
     font-size: 18px;
